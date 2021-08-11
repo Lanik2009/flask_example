@@ -1,0 +1,23 @@
+body {
+background-image: url('../website_bg.jpg');
+}
+
+.green {
+    color: white;
+}
+
+.btn-a {
+    background-color: white;
+    text-decoration: none;
+    border-radius: 12px;
+}
+.bg-tr-gray{
+background: rgba(10,10,10,0.3);
+}
+.col-white{
+color:white
+}
+.back-text{
+background: rgba(255,255,255,0.3);
+padding-top: 30px
+}
